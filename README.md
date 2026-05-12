@@ -34,6 +34,16 @@ The system now auto-generates formatted management reports at the click of a but
 
 ---
 
+## 📸 Project Preview
+
+### Transaction Summary — Multi-Entity Cash Flow Analysis
+![Transaction Summary](Screenshot%202.png)
+
+### Healthcare Mass Outreach Budget — 8 Communities
+![Mass Outreach Budget Summary](Screenshot%203.png)
+
+---
+
 ## 📁 Repository Contents
 
 ```
@@ -148,4 +158,3 @@ End Sub
 🌐 [Portfolio Website](https://aliyugosta.github.io)
 
 > *Open to remote Data Analyst roles with US and European companies.*
-
